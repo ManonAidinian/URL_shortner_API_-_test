@@ -1,4 +1,4 @@
-# URL_shortner_API_-_test
+# URL_shortner_API_+_test
 2 endpoints API to generate shorter URL and retrieve the original one + tests
 
 # HOW TO RUN ME
